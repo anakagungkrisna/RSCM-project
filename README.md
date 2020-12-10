@@ -15,4 +15,4 @@ The schematic for the receiver looks like
   
 We use an arduino nano for the microcontroller, and two led to indicate wether it receives data or not. although in the code it is not provided yet. just simply turn on the led when the data is 1, and turn off the led when the data is 0.
 
-
+You can get the PCB design in the Transmitter and Receiver folder. i use altium designer to design those PCB.
