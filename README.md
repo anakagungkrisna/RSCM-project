@@ -9,7 +9,7 @@ We use 3 laser sensor with an laser diode to pinpoint the measured distance and 
 
 The schematic for the receiver looks like
 
-<ims src = "">
+<img src = "">
   
 We use an arduino nano for the microcontroller, and two led to indicate wether it receives data or not. although in the code it is not provided yet. just simply turn on the led when the data is 1, and turn off the led when the data is 0.
 
