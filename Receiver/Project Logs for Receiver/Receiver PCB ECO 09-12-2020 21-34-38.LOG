@@ -1,0 +1,32 @@
+Added Component: Designator=*(ArduinoNano)
+Added Component: Designator=DS?(PIN2)
+Added Component: Designator=DS?(PIN2)
+Added Component: Designator=HC12(HDR1X5)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Pin To Net: NetName=D2 Pin=*-19
+Added Pin To Net: NetName=D2 Pin=R?-1
+Added Net: Name=D2
+Added Pin To Net: NetName=D4 Pin=*-20
+Added Pin To Net: NetName=D4 Pin=R?-1
+Added Net: Name=D4
+Added Pin To Net: NetName=GND Pin=*-13
+Added Pin To Net: NetName=GND Pin=*-18
+Added Pin To Net: NetName=GND Pin=DS?-2
+Added Pin To Net: NetName=GND Pin=DS?-2
+Added Pin To Net: NetName=GND Pin=HC12-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetDS?_1 Pin=DS?-1
+Added Pin To Net: NetName=NetDS?_1 Pin=R?-2
+Added Net: Name=NetDS?_1
+Added Pin To Net: NetName=RX Pin=*-27
+Added Pin To Net: NetName=RX Pin=HC12-3
+Added Net: Name=RX
+Added Pin To Net: NetName=TX Pin=*-26
+Added Pin To Net: NetName=TX Pin=HC12-4
+Added Net: Name=TX
+Added Pin To Net: NetName=VCC Pin=*-11
+Added Pin To Net: NetName=VCC Pin=HC12-1
+Added Net: Name=VCC
+Added Class: Name=Receiver
+Added Room: Name=Receiver
